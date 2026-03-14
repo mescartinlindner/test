@@ -4,3 +4,4 @@ b = torch.tensor(4)
 c = a*b
 print(a)
 print(c)
+print(b)
