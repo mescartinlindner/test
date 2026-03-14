@@ -5,3 +5,4 @@ c = a*b
 print(a)
 print(c)
 print(b)
+print(a+b+c)
